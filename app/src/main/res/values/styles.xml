@@ -16,7 +16,6 @@
         <item name="colorBackground">@color/white</item>
     </style>
 
-
     <style name="AppWidget.Title">
         <item name="android:textColor">?attr/colorOnMajorTitleBackground</item>
         <item name="android:textSize">@dimen/major_title</item>
