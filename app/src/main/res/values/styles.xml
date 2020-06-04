@@ -12,7 +12,6 @@
 
     </style>
 
-
     <style name="AppWidget.ListView">
         <item name="colorBackground">@color/white</item>
     </style>
